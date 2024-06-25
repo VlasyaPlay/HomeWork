@@ -1,8 +1,8 @@
-#задание 1
+# задание 1
 a='Hello World!'
 print(len(a))
 
-#задание 2
+# задание 2
 first=10
 second=5
 summa=first + second
@@ -10,19 +10,19 @@ diff=first - second
 print(summa)
 print(diff)
 
-#задание 3
+# задание 3
 first=3
 second=6
 third=9
 mean=(first+second+third) / 3
 print(mean)
 
-#задание 4
+# задание 4
 first_string='Вторник'
 second_string='Понедельник'
 print(second_string,', ',first_string)
 
-#задание 5
+# задание 5
 a=2
 b=7
 c=10
