@@ -6,8 +6,9 @@ print(my_dict.get('Andrey'))
 my_dict.update({'Alex': 1995,
                 'Max': 1997})
 print(my_dict)
-del my_dict['Max']
+a = my_dict.pop('Max')
 print(my_dict)
+print(a)
 
 #2
 my_set = {3,3,13.4,13.4,'Apple','Apple'}
